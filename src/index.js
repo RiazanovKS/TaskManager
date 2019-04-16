@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './24_redux_todo_app/App.js';
+import App from './App.js';
 import './index.css';
 import registerServiceWorker from './registerServiceWorker';
 import { Provider } from 'react-redux';
-import store from './24_redux_todo_app/store';
+import store from './store';
 
 ReactDOM.render((
   <Provider store={store}>

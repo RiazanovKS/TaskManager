@@ -1,4 +1,4 @@
-import { CHANGE_FILTER } from '../../constants';
+import { CHANGE_FILTER } from '../constants';
 
 const BASE_FILTER = 'all';
 
